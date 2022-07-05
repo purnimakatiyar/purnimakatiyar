@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **katiyarpurnima0705@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-ZDIeqHSo3keeawSqtc4J3Vlnh14oP9W/view?usp=drivesdk](https://drive.google.com/file/d/1-ZDIeqHSo3keeawSqtc4J3Vlnh14oP9W/view?usp=drivesdk)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
