@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Purnima Katiyar</h1>
-<h3 align="center">Just a girl, a laptop, and a dream–by the end of the semester.</h3>
+<h3 align="center">Coding is passion for me, learning and exploring new techs,love to contribute, trying to compile and execute code. </h3>
 <h4>Design, Code, #MakeStuff. Computers are everywhere in my life—I use them for everything from navigating Google Maps to editing photos in Lightroom.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purnimakatiyar&label=Profile%20views&color=0e75b6&style=flat" alt="purnimakatiyar" /> </p>
 
