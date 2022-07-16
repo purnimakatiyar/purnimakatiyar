@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Purnima Katiyar</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
-
+<h3 align="center">Just a girl, a laptop, and a dream–by the end of the semester.</h3>
+<h4>Design, Code, #MakeStuff. Computers are everywhere in my life—I use them for everything from navigating Google Maps to editing photos in Lightroom.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purnimakatiyar&label=Profile%20views&color=0e75b6&style=flat" alt="purnimakatiyar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purnimakatiyar" alt="purnimakatiyar" /></a> </p>
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 👯 I’m looking to collaborate on **ReactJs**
+- 👯 I’m looking to collaborate on **Reactjs,Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://purnimakatiyarportfolio.netlify.app/](https://purnimakatiyarportfolio.netlify.app/)
 
-- 💬 Ask me about **HTML,CSS, Reactjs, C, C++**
+- 💬 Ask me about **HTML,CSS, Reactjs,Nodejs C, C++**
 
 - 📫 How to reach me **katiyarpurnima0705@gmail.com**
 
