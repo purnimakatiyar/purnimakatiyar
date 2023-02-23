@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Purnima Katiyar</h1>
-<h3 align="center">Coding is passion for me, learning and exploring new techs,love to contribute, trying to compile and execute code. </h3>
-<h4>Design, Code, #MakeStuff. Computers are everywhere in my life—I use them for everything from navigating Google Maps to editing photos in Lightroom.</h4>
+<h3 align="center">A coding enthusiast, always ready to learn & explore new techs, love to contribute and glad to work in a team so as to enhance my network and build great connections.</h3>
+<h4> I am skilled in creating and designing websites. I have a keen interest in Web development ,content creation, Machine Learning and AI. Apart from programming, I'm also passionate about art, drawing , photo-editing and template or content designing etc.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purnimakatiyar&label=Profile%20views&color=0e75b6&style=flat" alt="purnimakatiyar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purnimakatiyar" alt="purnimakatiyar" /></a> </p>
