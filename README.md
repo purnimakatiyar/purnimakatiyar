@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Reactjs,Nodejs**
+- 👯 I’m looking to collaborate on **Reactjs**
 
 - 👨‍💻 All of my projects are available at [https://purnimakatiyarportfolio.netlify.app/](https://purnimakatiyarportfolio.netlify.app/)
 
-- 💬 Ask me about **HTML,CSS, Javascript,Reactjs,Nodejs ,C/C++**
+- 💬 Ask me about **HTML,CSS, Javascript,Reactjs,C/C++**
 
 - 📫 How to reach me **katiyarpurnima0705@gmail.com**
 
