@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Web development**
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
-
 - 👯 I’m looking to collaborate on **Reactjs**
 
 - 👨‍💻 All of my projects are available at [https://purnimakatiyarportfolio.netlify.app/](https://purnimakatiyarportfolio.netlify.app/)
