@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Purnima Katiyar</h1>
 <h3 align="center">A coding enthusiast, always ready to learn & explore new techs, love to contribute and glad to work in a team so as to enhance my network and build great connections.</h3>
-<h4> I am skilled in creating and designing websites. I have a keen interest in Web development ,content creation, Machine Learning and AI. Apart from programming, I'm also passionate about art, drawing , photo-editing and template or content designing etc.</h4>
+<h4> I am skilled in creating and designing websites. I have a keen interest in Web development ,content creation etc. Apart from programming, I'm also passionate about art, drawing , photo-editing and template or content designing etc.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purnimakatiyar&label=Profile%20views&color=0e75b6&style=flat" alt="purnimakatiyar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purnimakatiyar" alt="purnimakatiyar" /></a> </p>
@@ -9,9 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Reactjs**
 
-- 👨‍💻 All of my projects are available at [https://purnimakatiyarportfolio.netlify.app/](https://purnimakatiyarportfolio.netlify.app/)
-
-- 💬 Ask me about **HTML,CSS, Javascript,Reactjs,C/C++**
+- 💬 Ask me about **HTML,CSS, Javascript(Basic),Reactjs(Basic),C/C++**
 
 - 📫 How to reach me **katiyarpurnima0705@gmail.com**
 
