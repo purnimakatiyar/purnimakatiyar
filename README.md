@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Web development**
 
-- 👯 I’m looking to collaborate on **Reactjs**
+- 👯 I’m looking to collaborate on **Python**
 
-- 💬 Ask me about **HTML,CSS, Javascript(Basic),Reactjs(Basic),C/C++**
+- 💬 Ask me about **HTML, CSS, Javascript, Angular, Python, C/C++**
 
 - 📫 How to reach me **katiyarpurnima0705@gmail.com**
 
